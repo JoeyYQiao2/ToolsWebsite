@@ -1,0 +1,11 @@
+{
+    "HEADER": {
+        "WELCOME": "welcome",
+        "CHOOSE_LANGUAGE": "Language",
+        "ENGLISH": "English (US)",
+        "CHINESE": "Chinese (Simplified)",
+        "WEBSITE": "Websites",
+        "TOOL": "Tools",
+        "BLOG": "Blogs"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "websites": [
+        {
+            "id": "16d52f9f-d180-4a85-9c9f-222d86a0cc85",
+            "name": "Roadmap",
+            "url": "https://roadmap.sh/",
+            "description": "roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings.",
+            "image": "asset/images/roadmap.png",
+            "payment": "Free Trail"
+        },
+        {
+            "id": "",
+            "name": "",
+            "url": "",
+            "description": "",
+            "image": "",
+            "payment": ""
+        }
+    ]
+}
