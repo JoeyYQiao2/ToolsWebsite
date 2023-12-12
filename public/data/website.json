@@ -9,12 +9,36 @@
             "payment": "Free Trail"
         },
         {
-            "id": "",
-            "name": "",
-            "url": "",
-            "description": "",
+            "id": "f7a739d5-1596-4763-842b-9d5a068760c4",
+            "name": "Notion",
+            "url": "https://www.notion.so/",
+            "description": "Notion is the connected workspace where better, faster work happens.",
             "image": "",
-            "payment": ""
+            "payment": "Free Trail"
+        },
+        {
+            "id": "0b9bc879-ee2d-4132-b560-d6a9efcb1021",
+            "name": "墨刀",
+            "url": "https://modao.cc/brand",
+            "description": "在线一体化产品设计协作平台",
+            "image": "",
+            "payment": "Free Trail"
+        },
+        {
+            "id": "f1625a7a-000c-4009-ac0a-574a9243cb17",
+            "name": "JIRA",
+            "url": "https://www.atlassian.com/software/jira",
+            "description": "The #1 software development tool used by agile teams. Move fast, stay aligned, and build better - together",
+            "image": "",
+            "payment": "Free Trail"
+        },
+        {
+            "id": "82e9e733-83c9-4bea-ae61-fb5559cbdcd9",
+            "name": "Figma",
+            "url": "https://www.figma.com/",
+            "description": "How you design, align, and build matters. Do it together with Figma",
+            "image": "",
+            "payment": "Free Trail"
         }
     ]
 }
